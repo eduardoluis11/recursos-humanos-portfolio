@@ -68,3 +68,6 @@ network/migrations/0004_like.py
 
 # media folder, and its images
 media/
+
+# migrations folder
+app_rrhh/migrations
